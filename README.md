@@ -36,15 +36,9 @@ A collection of Calculus 1 study notes, essential formulas, solved examples, and
 
 ### 1. Limits of Functions
 
-![Limits Cheat Sheet](01-Limits/Limit%20Cheat%20Sheat.png)
-
 ### 2. Continuity
 
-![Continuity Cheat Sheet](01-Limits/Limit%20Continuity.png)
-
 ### 3. Asymptotes
-
-![Asymptotes Cheat Sheet](01-Limits/Limit%20Asymptotes.png)
 
 ---
 
